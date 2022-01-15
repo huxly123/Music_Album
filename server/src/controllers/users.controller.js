@@ -13,7 +13,7 @@ router.post("/", async (req, res) => {
 
 router.get("/", async (req, res) => {
     try {
-        const user = await User.findById(req.params.id);
+        const user = await User.find();
         return res.status(200).send(user)
     } catch (err) {
         return res.status(400).send(err.message)

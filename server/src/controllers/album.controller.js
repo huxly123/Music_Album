@@ -4,7 +4,7 @@ const router = express.Router();
 
 router.get("", async (req, res) => {
     try {
-        const album = await Album.findById(req.params.id);
+        const album = await Album.find().populate("author").lean().exec()
         return res.status(200).send(album)
     } catch (err) {
         return res.status(400).send(err.message)
