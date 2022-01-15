@@ -1,0 +1,433 @@
+{"datas":[
+  {
+    "album": "Botanics Hydrating Day All Bright Sunscreen Broad Spectrum SPF 15",
+    "artist": "Farr",
+    "cover_photo": "http://dummyimage.com/168x100.png/dddddd/000000",
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAIJSURBVDjLjZNPSNNhGMc/7+/3Ww5LmRaho0AdQgWpbRUqHmohVIdBp6Cbp7DWpQi8VyRBt+jQpdNuHYLAWEEiORl0CCsbIlGH5YKFbXPE/rzv+3QYipIOH3h5eB94Pu/3ff4gIuzl5EZGZKe4wx7t1cTEjnElIpuXTCYjxhi01mx4rTX5fJ5UKkUwGCQUChGLxdRGjreVVq/X6evrA2ArWESIRqOICMlkcpuCbQCtNQCzy42fGQFjwYrFGLh4QlOtVncH1Go1RIRw158dCwmBvQHS2Q6sWLRtKNAGrBWuDGkqlUpzAMCZ7t+7tLOjuYJqtYqIMPejEyOCtmBNoxZihaun680VFE0BEWHsaP6/1z98m2P6xTyl1gLXHpwvFcprj2YeLt7fBNxNT/bsC/i5JJex1pJIJHAcB6UU6y05Wnv+cm7sLEc6+5ldetmW/vL+3nA8GNicRGttr+NzyRQ/IyJ4nkc4HCYSiZDTKwwdG8Q4hsHucYyqM3xyFOCmA3A7db0do94d9B3ibfY11lo8z8PzPBzHYa2cx6cOEDt+C4A7F54ROjwA4PcAjDaTRltZKS+r/bV2ktkZrM/iui5KKQqlNZZWF1hcnWdq/DnTbybwuy0AFSUixONxabZIP/mK25tjdGCM/q5TrPz6yMKnebLfi4+3LVMzG44Hp4EbQBuwDjxNP1md+gdPcFmX7csAmAAAAABJRU5ErkJggg==",
+    "genre": "Comedy",
+    "year of release": 1997,
+    "songs": ["Cephalexin", "Balsalazide Disodium", "Blackberry"]
+  },
+  {
+    "album": "RITE AID RENEWAL",
+    "artist": "Tedd",
+    "cover_photo": "http://dummyimage.com/187x100.png/dddddd/000000",
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAF1SURBVBgZpcGxalRBFMfh35yZGwK72mrrO2yxoIXFvIBNGksrsbISFGuxMRDIGwhiCtttrq9hCgWxSLtVsor3nvN3RwxcggTCfl+SxC7So+cfnz14uHi73mgmAREoAg9HIUKB3AkJueMR3N4bLk5Pz158endwXBb3F0fd/szu7HMTs4uNHwHHZTPINutzburnIKN5+f6r/ufVh2+6zpM3n7VFkYJmtVrRdR21VqbW57/wUfgoXMFvF/fu3sLDaQoSTdd11Fq5quRCSk7KIodRRtHE6DTFw7nU9z1NrZVL2cBSpiTwJNyCJjxoTCGa5XJJU2tlKicwA8uQS2IvZ5oIp7EIZ6rve6ZSMYpBNigZLPNXRNCUcRiYqrUyZWyZkQGXsCSacRhpTB5M9X3PlKWEpQQpkc3IKdEogqZEBM18PqfWylU5JZrMPznThERTzr7/OHl6OByEO+GBuxMR+DDw+PUXQkLhyEUoUAQRNCdsJUnswtjRH6iT+f+z/UsKAAAAAElFTkSuQmCC",
+    "genre": "Drama|Romance|War",
+    "year of release": 2001,
+    "songs": [
+      "rosiglitazone maleate and glimepiride",
+      "BENZALKONIUM CHLORIDE",
+      "felbamate",
+      "Aspirin",
+      "Carbon Dioxide",
+      "Hydrocodone Bitartrate and Ibuprofen"
+    ]
+  },
+  {
+    "album": "Fosinopril Sodium",
+    "artist": "Pace",
+    "cover_photo": "http://dummyimage.com/117x100.png/5fa2dd/ffffff",
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAKFSURBVDjLfZNNSFRRFMd/b96Mb0ZHEbFPTfqQNKpFkVZYFO1MSFpEkBAYhBht2rnKHIogCNq0qIX2QdHOKFHJooIKlDIrykxLM0VzbMYZx9F57360GC0lpgOHc7j3/H8czrnX0FqzYKefVOuDm8rpDr1CaoVUct4VQglKcvfQdP8W7WeeGQsaN4tMOAKlk8VSSYRS8/Gv27ZYLMG1BGALtAZHSmwp2BgJc/T7V2zpIOT8XcJJDXBsgUU6lsuLIwV7JyfZLvysjEawTB8+7cex/w8IfBrqZY1VyAphsn5mGrW6jLLxMOu8RXS/68GxRSAl4O6x5vrnn54GJkZCHJgxYMNhZG4JJeEwE/1B2jpbA28uva9frDG01nC7zIfLLEJjApyPumpqsq2TWVtqkY4b60cz9/peP6xaldNAsgTEXJATL4aTgJulI+QU52kM0Bq0Qi7fTcKdj4pNYooprHg/xlwo2bR0IDaGKxo+ngRcXHMIoe+o/bV+WXgEFQ0iopOo6SAqPoW2E6AVRlo6JgL3hxa8gwMPyPBUGX8e0tm8QhQtamdlUaKgEhkeR8bDqHgEPRNFGxpLhPC/fSyJiXqaxi8sHWJgdAC/Z4frc3uze+ojWtnouRl0Io4Ss7g9bvy9T0PYunxB/M8WqBuKkZ3V4ZoeQgsHhANKgjMf09wxro12pFwjAKa3QmYXJ1OPwGtGcPmykcpC5iwroKF4a2pA4y4f2jgg/Wvxfmsj81HjQPrLthuZwU4scxqRtQ6kUZEaINU+mZHv87SeI62r6zpCb+PqSLVnbLg8o6d1VM/OgqOXAJb8RiJTeeaX8UF+2ado/Nn+5/zyUDt1RZu9fe+vICldLPkNkalgK6EwqgIAAAAASUVORK5CYII=",
+    "genre": "Action|Adventure|Comedy",
+    "year of release": 2007,
+    "songs": [
+      "White Hickory",
+      "Avobenzone, Octisalate, and Octocrylene",
+      "Horse Fly",
+      "maprotiline hydrochloride"
+    ]
+  },
+  {
+    "album": "Arava",
+    "artist": "Mohammed",
+    "cover_photo": "http://dummyimage.com/198x100.png/dddddd/000000",
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAK4SURBVDjLjZPrT1JhHMfPq/NH+K6ty2bhJcswzUa2hTMaEmCsZmWuUU0HQuAVEWHMgCnLy2yOhiOKIs0L08ByXgab1TTRNlO7ULwylTOZ9iL9djiVrdLmi++bZ7/P5znP93kOAYDYKt1F+0k6cR4ZK86jSCS3m9sW7pGxwh5FwlqfOmnNW34w7NUcInck6Ck+QNJgZNjExYTzOl67iuG/nQuf7kjEp2eT/xV45AlknyopMmLJweRDGR05Jt1KBDvLMdoiRp8uLeKpTiO3FHiUiWR/WTI12sBD8JEC/kYBvLXpeGrIwHCTGOPuKgxYRXCXsan7ilTyD0G/Opn0lqdQfisfwccq+JuEGKjjYHpqkklvLQc+iwiBe2p06/mwSVOo5kvJjISgCyLpgij/bQGCHWX0p4rgNZ7AyxdjWFxcxPLyMuZmZ+BUHUOHlodnd26g/eYpmIQsSn86niR81akBf9PZn+fMo+EsTIy/wtLSEgP/yuzbGbQUsnFXdhJd5gtoLMxAOWdvgKCb5Xr1aevDzXno0WZufHg3t7nz3/n08T1qclhouHgUZZl71ulwfxRYncZ9omGPWOstG6urq8ywUqmESqWCWq1GaWkpsxaNRmEx3YKaEz8Vg/+5RpPJtEJRFDMcA1tbW9HW1obKyspNQUwqkUj2bfkODAbDSiQSYYYrKipgs9lgt9tRU1OzKZDL5RAKhb8FRc8vJxR0nTsvtvMGxBb+N8dQO2ISjUYDh8MBp9MJWsysPXhjR0GnBGIbbzrbytGmaw/zCRr+LOu9iqrBEhT1FqDAmo9wOAydTgeXywW32426ujqEQiFoBlSoH9NDO6REvkOERFl8lKB3HqRtIdoWOC5Lp3jXchakUum80WhkQLoXmM1mCASC+dySMwvZtVlf0zWpYzT8ZfeVXYPEdr/pTvMdjX2sh+52/VQAAAAASUVORK5CYII=",
+    "genre": "Comedy",
+    "year of release": 1967,
+    "songs": [
+      "Alcohol",
+      "OCTOCRYLENE, HOMOSALATE, AVOBENZONE",
+      "Pyrithione Zinc",
+      "Chlorpromazine Hydrochloride",
+      "Chlorpheniramine maleate",
+      "ciprofloxacin hydrochloride"
+    ]
+  },
+  {
+    "album": "DiorSnow White Reveal UV Shield Loose Powder Healthy Pink 002",
+    "artist": "Judye",
+    "cover_photo": "http://dummyimage.com/183x100.png/ff4444/ffffff",
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAADsSURBVCjPpZE9SgRBEIW/XnvWwB+ExUAXBDNvsTCTeAtP4AkEz+MNnGSHuYHBRgObCAaCmAiCU93VZdC9g5HJVlBJvfe+osoZ/9eMfQUeYFhrrUQCgYAgCCPS3TXgjGE178+RyZO3quh5be47D/HxjHcOAStD441Trhke6NxmNe8XfJXgiOE4oOKEI1q2jXtZX9SGYCXcpl7xyVPnhW8+GDESSsJIJBTDc4zgpQZB2eCYFa+RuEJZIrUfiUQUxZEKZpcRCPgRRUnckEjYH4yRsmCBTsHZvwNdEvE/7fOtMObbIUi5Z8Za6/b+5i8QHogENhlMkQAAAABJRU5ErkJggg==",
+    "genre": "Drama|Film-Noir|Thriller",
+    "year of release": 2011,
+    "songs": ["Gabapentin", "Palmers Amaranth"]
+  },
+  {
+    "album": "Monistat Complete Care Chafing Relief",
+    "artist": "Fredric",
+    "cover_photo": "http://dummyimage.com/190x100.png/ff4444/ffffff",
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAK9SURBVDjLpZNbSNNRHMf3JPYUBUFIT/USRCsiCKIeWhc06WUmicvNXdVITLDUKWmMZTJKZQ7mZDbbhV2au9aczjkvbU4tp3MqaWi28KWZ9zmWfvtPIgrEoh5+D9/fOd/P75zf+R0SANL/xJ6LIyMjSUNDQ/v+CVD44h29TNG30ubyrQnMobV7yresvwYQ5owS3TDuawcgso6hyj6JhL4tsmf8EUCYyYUKHwSdIeQ+1sNoaw8Uyft2NF1kRnqxlLwnoKvXqxWqPGA3vEJlg2Y4kXvYZB5IaIm0GlPqLExbhAjIr2FUcoJOCgaDUqJZE0SzJrxe70xPT892JBJBk9K46ff7odPpQOSgfV4UW3CXYmnMDqx+xtexl+gVpccSnW4Mh8MgAPB4PFSfzwe73e5zuVzQarW3rFYrvAbqsy/jVYh9smLBI8JGsA3f5voRaOFtk4gqxwYHB9Hd3Z3idDqTbTbbGaPReFij0ZAVCsX+4bbrdxbHK7e2Nvqx8eEuIoOFmFSyMdyUi0cPCjw793a73csEAEQ1akdHB9RqdY7ZbEaXKqtmMViOragP6zMMROdpWJngY0ZKWdK31KOgoKBsB+BwONotFkuKXq9PVqlUZLlcfqit9kLZwlDpDzMd0Y/ZWB6vwLSEstYpuJqan58f43A4qTsAk8lEJQBQKpVUg8EAnehGXai9BFsbvYjOsrE5n4Ml4iTvJVdidUI+8vLyctls9iyDwTj48/laW1vjzc3NybLisxWh13yMOuoR9mdifZaGSKAMU2JKxFSdfo7H451msVg0Op3e/9scyGQyiMVi6GsvAytzmJLdhJufgjfSNDirz6OyiAkulwsmkwkCABqNZtt1kATcE/GYrxExfwP8wkvQc46sOsvJp37dk52dnZSIXQGZFw9EaxjH411P0uKup5QeW+nJo3v9xu8f/sicYEnItwAAAABJRU5ErkJggg==",
+    "genre": "Comedy",
+    "year of release": 2002,
+    "songs": ["Sennosides and Docusate Sodium", "BUPIVACAINE HYDROCHLORIDE"]
+  },
+  {
+    "album": "Morphine Sulfate",
+    "artist": "Spense",
+    "cover_photo": "http://dummyimage.com/103x100.png/5fa2dd/ffffff",
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJsSURBVDjLfZO9a5RBEIefvfcuucRUanGiJkYjiNoEET9II0gUsRC0sbASO1G0MVhIiCL+BdoJYmOnjYWJQsA0QRBRYkBUJESJ+dJLzvfe3Z3dsXiTS6LowDKzC7+H3ww7RlUBCJcuKrv3IkNDqAgaAtF74lIuHT+OPh9m3YtnhlVRXC5Wi3SVMIrkdxHUef6MFYAXVIRoLVEkB4k06uI/AIUGwHnUWujoIFhLtJZgLSHLMF1dxLSOOvcfB84PmLnxG837a7QcaoJisvRukDTDvRojOD/wT0DTyYlJpFDze8612aZ2QiigkmEkpVSfoFx4VDOHw+SfAKOq6MODB8A8cd3XK9Y1E9OfSPYL9RkqDkxCc9nQ+uHeFF5PlS6Pja6dQZA+2XW+YqWFkFYJLheqd8QsRaqzpPNVsvbTlbgY+v4aokbp8eu2E+uLuVAciCd6i4oj+jqyMEddWsGGnr9nEHV91AT1GVEcGjxRcnFwea5+GqP6Ypxsempj6C1OAHd7B+XO0hA1/0TiG9YbJziqn8eJUmPfuSs0d+6h/nZw6/uXQ7eGjpZ+LbWg88bXIIa11sWi3jEzNsrOI2cofxrGPDhL6+fHbOvYkKjRK7mD4EeK1fFTrriZGNwa6yqOWKtRrnTCiasrvfdvIolmW+6gHu8UX9+fKpmUQqkMMaIh3wlUMW2tpG+eQv8m7DXDj2uGhe8zhES/meVtdDe7LiAMuO7TlaxpM0EialPwKdV3wyzMTrNlg1AsTLI4I3z5ngSf6Y0GACDr23Eg1qQPH3uimvUEUDXzURj5KHybm/16IgmmIyT6VeHesUG5/Rt5eNFI8xvNdAAAAABJRU5ErkJggg==",
+    "genre": "Crime|Horror|Thriller",
+    "year of release": 2005,
+    "songs": [
+      "Arnia montana, Hamamelis virginiana, Rhus toxicodendron,",
+      "dimethicone",
+      "Zinc Oxide"
+    ]
+  },
+  {
+    "album": "Millet",
+    "artist": "Ingrim",
+    "cover_photo": "http://dummyimage.com/229x100.png/ff4444/ffffff",
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAANvSURBVDjLVZNbbFN1HMe/p+d0be3p6Lr7unWMbuCQbR3FQWAEyPASkYe5mHhJTIhhPPngDAQTEGOMIZBpFiKoIWiIhAdgYxI14cFEo1M6O+Zmx1ob2MbYhbEb6zn/y7n8fcCZ7ZP88nv7JN+HjySEwDKfDX6oMpO3Uc5fpJw0UM5AGY0Ryn+U+dZP/OI116evB3WsQFoWtA+c2MUM/vVmf2OFrLhhSBYKPPn4Z3wInYnL54LSF4PcMA9zbh043xr+eZXg9F/Hm0POys5cbwke8Fn0Z4YgCwe2q/W49MdXcx6zucEn7Y01VKqBxMhjjE5mXrlypLYLAByn+o8HKKcXC9QQ+jIp/LLwOxaMRVR6yjE9dR+aRo55RdN76wvcgcIcN6qKVRDCLz5/tCcAAA6dkbaof5eaJuMY0pPQTYp8OQCVOnF94Gp/UD5zixKjtbLMi+EJikC2C1WlPpXqpO0/gbZPdrowmBkGNxmyHSpqs59GLPUbyBJ9x2BKR2SdT+aGjfFZjtQUQ1GuF5TQfU8EhG5kkgkHJETUTWjK2YGpu6OIp+MXQt5vSghh0Rp/EsFHpwC6iLFJBpeigFFSAQCKRnRS6M7LavRtwfTEfZzra59jGu84Mb//bHIxrvy6Zu3dAq37mdLwDtTP/oSbCy+BcQWcUBkAFF0n93rv9ERu/N01wwg7eWSy9ErTnPctoSeSO/X4buf+7XklZVuQXVyPGtcHSPvq8OBhITgj6ScTNPJt98C1Q+1j4fqb6Zpg04x7yCgv+9iS5cBCnRXelns7z5fnh/X4O5TXv4md6g8YSY3BYOR7AFC60pELQicnhU7OGOHyLCNcDtuyoNwexFIV3g7VviqD9iF2qRvbDr6PPNIL76JJTSO/AwAcIqMp9lLmDbY1msWrKkCSw7A1At2vwxWKvOzL0WGze4CwYWV6UbG7DYdqYrPXmzspADicn5+dsZe0A9KtOJAYhrOoGBbJYG6TCX8oAlsfgLAJoi0bYPMJuN0prNvcEjQZf3dVC0uNe54TlH7Jw2srFqslOJueRdF6D6xMDEJwxK/dQbSlGpK8BvC8gD/PH3sobHuPtLLG+eo61WL88Ghr9tGNBy9nyY4RCHMegFjRnwOyZwOmE/1I3fjo6irBMj2no4+EZT8lbAFh2ytO/P9h2xBCxP8FbMDM8CUkkoMAAAAASUVORK5CYII=",
+    "genre": "Drama",
+    "year of release": 1994,
+    "songs": ["Tolterodine Tartrate", "Sertraline Hydrochloride"]
+  },
+  {
+    "album": "FAMCICLOVIR",
+    "artist": "Rossy",
+    "cover_photo": "http://dummyimage.com/135x100.png/cc0000/ffffff",
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHhSURBVDjLpZI9SJVxFMZ/r2YFflw/kcQsiJt5b1ije0tDtbQ3GtFQYwVNFbQ1ujRFa1MUJKQ4VhYqd7K4gopK3UIly+57nnMaXjHjqotnOfDnnOd/nt85SURwkDi02+ODqbsldxUlD0mvHw09ubSXQF1t8512nGJ/Uz/5lnxi0tB+E9QI3D//+EfVqhtppGxUNzCzmf0Ekojg4fS9cBeSoyzHQNuZxNyYXp5ZM5Mk1ZkZT688b6thIBenG/N4OB5B4InciYBCVyGnEBHO+/LH3SFKQuF4OEs/51ndXMXC8Ajqknrcg1O5PGa2h4CJUqVES0OO7sYevv2qoFBmJ/4gF4boaOrg6rPLYWaYiVfDo0my8w5uj12PQleB0vcp5I6HsHAUoqUhR29zH+5B4IxNTvDmxljy3x2YCYUwZVlbzXJh9UKeQY6t2m0Lt94Oh5loPdqK3EkjzZi4MM/Y9Db3MTv/mYWVxaqkw9IOATNR7B5ABHPrZQrtg9sb8XDKa1+QOwsri4zeHD9SAzE1wxBTXz9xtvMc5ZU5lirLSKIz18nJnhOZjb22YKkhd4odg5icpcoyL669TAAujlyIvmPHSWXY1ti1AmZ8mJ3ElP1ips1/YM3H300g+W+51nc95YPEX8fEbdA2ReVYAAAAAElFTkSuQmCC",
+    "genre": "Drama",
+    "year of release": 2009,
+    "songs": [
+      "ALCOHOL",
+      "Levetiracetam",
+      "Cefuroxime",
+      "Ferrum Metallicum",
+      "salicylic acid",
+      "ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY"
+    ]
+  },
+  {
+    "album": "Midazolam",
+    "artist": "Kit",
+    "cover_photo": "http://dummyimage.com/174x100.png/ff4444/ffffff",
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJRSURBVBgZpcHda81xHMDx9+d3fudYzuYw2RaZ5yTWolEiuZpCSjGJFEktUUr8A6ZxQZGHmDtqdrGUXHgoeZqSp1F2bLFWjtkOB8PZzvmd7+djv5XaBRfL6yVmxv+QjQeu7l25uuZYJmtxM0AVU8Wpw9RQU8w51AxzDqfKhFjwq6Mjdbj1RN0Zv2ZFzaloUdwrL2Is4r+y7hRwxs8G5mUzPxmrwcA8hvnmjIZtcxmr3Y09hHwzJZQvOAwwNZyCYqgaThVXMFzBCD7fJfv8MpHiKvaV3ePV2f07fMwIiSeIGeYJJoao4HmCiIeIQzPXifY+paJqO4lZi/nWPZ/krabjvlNHyANMBAQiBiqgakQMCunbxHJviM9bQeZdBzHJUzKhguLJlQnf1BghAmZ4gImAgAjk++8jP56QmL2GXG8zsfFCz8skA1mQXKbaU3X8ISIgQsgDcun7FL7cJjFnLUMfLyLRr0SLS4hbhiup5Szd19rpFYKAESKICCERoS95neyHmyTmbmAodQ4vGpAfmEn6YTtTahv4ODiRkGdOCUUAAUSE/uQNfqTaKFu4jvynJiIxIzcwg/SjF1RsOk9R+QJMlZCvqvwhQFdbM4XvrynIVHpfn2ZSWYyhzHS+PUtSueUC0cQ0QmpGyE9197TUnwzq1DnUKbXSxOb6S7xtPkjngzbGVVbzvS/FjaGt9DU8xlRRJdTCMDEzRjuyZ1FwaFe9j+d4eecaPd1dPxNTSlfWHm1v5y/EzBitblXp4JLZ5f6yBbOwaK5tsD+9c33jq/f8w2+mRSjOllPhkAAAAABJRU5ErkJggg==",
+    "genre": "Comedy|Drama",
+    "year of release": 1997,
+    "songs": [
+      "Acetaminophen, Guaifenesin, and Phenylephrine Hydrochloride",
+      "Echinacea purpurea, Hydrastis canadensis, Eupatorium perfoliatum, Verbascum thapus, Sheep sorrel, Yellow dock, Kentucky Blue grass, Orchard grass, Red Top grass, Timothy grass,",
+      "acetaminophen, aspirin, and caffeine",
+      "potassium chloride",
+      "escitalopram"
+    ]
+  },
+  {
+    "album": "Cyclobenzaprine Hydrochloride",
+    "artist": "Annabel",
+    "cover_photo": "http://dummyimage.com/194x100.png/ff4444/ffffff",
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAK3SURBVDjLdVM9TFNRFP5e+0p/KcQIrZZXYCCBdIMoaGqESGxCTBqCg5suxsRF44IjgzG6mZjYwTB2Mg6YOLQdNKUFTKwYEJ2koYZSqi20j9ff91rPvbEEbXzJyb03Oef7vvOd84Rms4mTXzablXQ63Vyj0fCpqjpGgXq9niiVSqFCofDa6/X+OJkvnATY39+/IAjCvMFg8NMJAgIDqFarODo6QiqVWioWi09nZ2dXWzW61mVvb08i1nmTyeQ3Go1gwIlEgketVoPZbIbb7fYfHh7OBwIBqQ2AZM6JosiZWQED8Xov4fLkJDo7O1Eul0HK4HK5/JlMZq5VJ7YulUrFZ7PZ2MnZviWzWFtd4UrGxyfQ7+xi/qC3txcHBwc+Knn2lwLqc4wls347iH1tNQ67+xzsg1P4mFRht9uZSlitViiKMtamgFzmhjH5RItGA6jBAk3rQE3o4jmapoFMZABo84AAErIs8yQaFy5OnIciF1AoVXBluIlcLsfzdnZ2mB+JNgByN0Tm8Hs8HocBZdycduH2lA11JYNoNMoVrq+vszZDbXuwuLgokYqXHo/Hx9rJ5/O8Zxot3wfn7gcYv4Qg5NJQ9UgLaD6/GlafHHtAzo/TCB2xWGxpdHTUPzIywntlBKatCMzyFoZv3YNx0IPyRvjs1+XIo8i0QeEKgsHgdcIIEmPH5uamm5YqxVhZ38yT21jDtfsLMH9/D+zGgK5u/BL78Sm8nOQKSOaroaEhMA8kSUo5nU5YLBak02k+nVMb72ByDgIzD47dFxfOQN8QBsQ/S8QL+vr60NPTw98sHA4HP2vb3Sh9fgvrm7uoljMoUY1c1EMjLzhAMplEJBLhS8SiBcCCvWdOm9G9EsUAnaLeAPmniu0M2YjmC+Hf3/l/X/yG+6GST9/Ra0K/pm/uUlXAF1Yf/wakxYbML/JgHwAAAABJRU5ErkJggg==",
+    "genre": "Comedy|Horror|Thriller",
+    "year of release": 2009,
+    "songs": ["TITANIUM DIOXIDE, OCTINOXATE", "Dibucaine"]
+  },
+  {
+    "album": "Tri Estrogen",
+    "artist": "Lazaro",
+    "cover_photo": "http://dummyimage.com/119x100.png/cc0000/ffffff",
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAH0SURBVBgZpcFPaM9xHMfx5/vz/Ywfv6ZwGC1mtRsXtRvFQSmlKK3JkRJymAul5EJcrFZrcnO0QpELDgrlKJcd5M9PtpHawew39v2+3y/7rlZuLI+HSeJ/2OGhO2d27+2/PtNWUwIiUAQejkKEArkTEnLHI1i3qpybmJg8f+/GwGju39U/0tFopq4GK9Gca/sIMJrbpVJ75gcrNV8qsSjLxZVjfazUiWstalkKaguVI0AhPCAQEcIj8Ep4JVzBgoveTZ14OLWMRM2SYRJKhkxYGCkZZgkzxwpRRCJXohaVU8seTi0BMgODQhAGEaIQJCvIBm7CU1ALD2pZIZaYgUQCZAYGZiAXYSADklFEQS3CqeUIZ5mZsUQiATIjspEjmHp4k+mHY7Q/vaWjq5sdq/cAB8lVWbLEDAMkYWaIRRIJmH50i9lX4+w8cpzVvduZf/OYNc+f8mRfx9kkD2oFYICZYYAByYxkRuvuMH17DtF49wy7fZS17+/T27MBmYZyRLDMAGORGX9amGrR2NQLB86xLF/eTBG2LU9+aI2fGi4Hwp3wwN2JCLwsiQhCYqCxnvbrRzQfnObX/BfawOz3Ai+YMkn8zYvB7surOpsXt2ysck6fmf1W8fFr4eVPXTJJ/IuXg1svzM1MnSzcerzQpGBs/+Pq6m9gRhRi/EsJnAAAAABJRU5ErkJggg==",
+    "genre": "Action|Adventure|Drama",
+    "year of release": 2009,
+    "songs": [
+      "Loratadine",
+      "Oxygen",
+      "Theophylline",
+      "dextromethorphan polistirex",
+      "DOG EPITHELIA",
+      "cefuroxime",
+      "Loratadine",
+      "Mineral oil, petrolatum, phenylephrine hcl",
+      "Amoxicillin"
+    ]
+  },
+  {
+    "album": "Hydrogen Peroxide",
+    "artist": "Sissy",
+    "cover_photo": "http://dummyimage.com/180x100.png/cc0000/ffffff",
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAK9SURBVDjLbZJPaFxlFMV/93vfmz/NjElpp5rEyUggVijWP9BKVYQacSVIdeWqUBXRjYILaXetRFC7caHFhXYjBsyiuIiIirXQja0UQcSWmjaZxMFk7CSZyfx77/vedZFpSEgu3Ls4HC73nHtEVdmpvvixctSG9udAhCh2r554bvDLHYmquq0/nJqZmLq8qLOLHa3Uujp99T/9aOrW5E7cbcCZr2/+8t3VJa23E+061dipduJEL/9Z09Nf3bx99kJ5aDNf7kr4dHr+USPy6xP7B1IPDveBCI2OB6A/a7AG5qodfvp9mZWWe+nkyyMXgPUFn3xbfndPf+rs33NzqCo+Ubz3OOeJnSN2HkGJnCNJlPEnD3N9oX3u9Cult+y56QU/Npwzj4/189fMLU48O8i+QgERiwJxIiTrbuFdxKnPL/HCoQJ786tvTnxTfsPG7bX58UeGSt1YiWNHYW+B6sefkclkNoyWwOJsQOa146Ag6mm31rh47UrZLtXdSOQSJiZv4LzDGIvk8gw9fBBSAdgArKFy5RpJAsvdAd47f523XxwhXyiWTLPrJR0annqsyEq9QQKkQwv9fZBNQ2hBTE+Esss2ObC/yJ6BNICYVscBMHpfjmPPH+X98xc3pUQ2NUz+8AfjzxxhdDiH9PJnm71X2QBGh3Kknz7MB5eyBL+tbgmcY4zjhw7S9uEW3Dbb6xeIgIsdUay8fuwINtxKdHHMjYU6g4V7sKHdONC0uh4FosixWGtQvDdPKhVui7wNQx4YzFNbaZA4hyqggm11nfpEZelOg2IhTzYTgoIC/q4DCgmK3ZXC7stTqdZpD2RBE7XN2j+z3ciVHro/K7msETEe05MkIlusXB+W0u58MvtvI6pXFyo2WqvOjb/z/e50vq/PpgOxNsAEQmDAGMHY3gLZkK3eRVF7dflOdWa+/D+ThmoKzy7qoQAAAABJRU5ErkJggg==",
+    "genre": "Comedy",
+    "year of release": 1995,
+    "songs": [
+      "Oxaprozin",
+      "Metformin Hydrochloride",
+      "Naproxen",
+      "ZINC ACETATE ANHYDROUS and ZINC GLUCONATE",
+      "METHADONE HYDROCHLORIDE",
+      "Sodium Fluoride and Triclosan",
+      "Levetiracetam",
+      "Oxygen",
+      "Atropine Sulfate",
+      "Hydrocodone Bitartrate and Acetaminophen"
+    ]
+  },
+  {
+    "album": "Diltiazem Hydrochloride",
+    "artist": "Gabbey",
+    "cover_photo": "http://dummyimage.com/116x100.png/5fa2dd/ffffff",
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAK4SURBVDjLlZJdTJJxFMZp6C2bd+bWhTXXReuirbtuWuZFMyt1iX04bWlfNmlqoqCCfDZSS1ABwUQ0NSQVVD5ETcCVqLS6yK8EslpttdlFoS6Vp//7urVaLuvdzs357/c8zznvYQBg7FR3vbKwfEzE2u5tR1jhkYR1/kZIR4WodJax/kvgjlscbvLXw/62H5opFcrtXBRbb7H+SYBEDmunKdgK02IbbG/6oHxajSJLAfK7r7D+KiB7UhXWTKtgX7Lg0es2GOd04A4UYSDUi2qvHNdNebjUnsXaVkA6Kgirp5SwEVjhlULqFsIwq0XLrAYP51tgDZlR5arARUPmyh8C4pHKlcbJOhLXgsDXeaxtrKLzRTskY5VbcNAMoYuP8y0Z67+NoPLVJoiGK743+O7Tsyo8UhpWexoQWg5A7hHBEuyGYIhPOSOr9RzY+vQoWkDlq6kQkUj1E/douGvBSGILaGcKFjuEW7CTRzlj4uM4yh2lSNOektACVCTVRC0GyYI6F1rpWR/MqCEmseVuEfoC3ahwlkElS4Q7ex+GE6MxxI6FuPAATiiTYhiSEYGBFPTP1egPPUZxPwfNrxrRNtdMYBPt1lSdjJclR7A6WIPIjAPhrkJM5h/cbE2PUTAko4LdVArqSNRTdXRc46x+Cya9PHMOHJlxWCEwlCkANwaQxeOz4iicx5lBeok8222dwa9HkZUD5bMa9C6awLeV4KwuFXwiMnwsChF/D379vghiqX6EFii2cvZXuco3XEE7bpqvgggiVXMqQjbtSNee5jmTmO++NV8GCLRWwsAyqaVrTJD+e1qgoOdGNLmu3ryOnE1OTz7OqE+uZ+jTDpNN76Xevew4oS83Yf0DNx6fyqIRyN2FkZSoDUcSk/fziHI7cg5lGy9Mk1+VvN15j7P3lBLHEBWbSkTBVP8HrJC/O3IOxUMAAAAASUVORK5CYII=",
+    "genre": "Comedy|Drama|Romance|Sci-Fi",
+    "year of release": 2010,
+    "songs": [
+      "nicotine polacrilex",
+      "Instant Hand Sanitizer",
+      "Aluminum Zirconium Trichlorohydrex Gly",
+      "Octinoxate, Octisalate, Oxybenzone, Avobenzone",
+      "METHYLPHENIDATE HYDROCHLORIDE",
+      "hyoscyamine sulfate"
+    ]
+  },
+  {
+    "album": "Cefdinir",
+    "artist": "Rasla",
+    "cover_photo": "http://dummyimage.com/181x100.png/5fa2dd/ffffff",
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAALPSURBVDjLhZJvaJV1FMc/v7tnc1e9Cs6Jl9oNFWmtOU2lzTbxX2CWohLthYq+FImolHrhm6SgF77yRSNfFIJRvQgssEgwNkipRpG6FP+1ze6cbvdud+4+9z7/n3N6cVsrmHrgy4FzDh++h3NQVR6nDefXndxwrv2WqtLc3aKbT7fVTfUSPCQ2d3es2PLD+m6AwA67cqX88jcPb93pZm3qviq3Ts0ZVZ0RsOn7FxbGSl7KYdIOAzc99wmKI+Oc2HOMgTN9fNjb9VK4dG55Rgcbv1vX0rPtpzG36Bzonxh2333mIEeW72FjQxutH7yMNs8hms25mtrqUzM6WP91m/qufzgOq955q+VA+v7o79wp5ekr5Ohs3MFHZz+l7oZkfj6bHTI3v117uXZeU5Mx02b6/JI5dL3XOvTsXpJhgX47R+/oPTqXtlNtCV/+9gt/FYaY7ybftowmGhs6TlUbY0ABlAZjqL++hkxqEZeGB7g2VmDvsi1cuneBlU+1Uy441LpmhYj8YRGphwSz/JGPiYMqSMzDmBSvPr2dby734JiIbemV/Jn7lbWZV3jv8xO83rRg5P0jd68CxiI0CZWAOKhBRRE3i5sfZF9pgtf8kcpOQ2OVXDzD1tUZgMVL9md6Bk9nN1kYrZXIpXw/hz/ajwQOVbPm8+T2TzAYuq+cJ/dgHCdwaUwvo/25XdzuaoWINwAswgRWchH1bUcBAVVUbKLiRcQbpGOxj9Y7DE+M8eONCzQvWQXA4BfZq/8AVDX2EKcPjSfR2Ea8O6CCigfiolIiPcejc1WSZDJJ7j8nt/BRlQgJ82g0WYGIDxqB+qg4aFxGIhuNbTDmfz9jEagaYjQqoNGDiuLJaVhko3ERjcuoeIifBfD+BWggE5EzPjss1aSQVEK1GiQFuhCNfSBAE5VsEjGx56kG4k8DPP/4wMndz6O8iCHFo0IBczFA9LOp0t/gFKTUltQw1wAAAABJRU5ErkJggg==",
+    "genre": "Drama",
+    "year of release": 2011,
+    "songs": [
+      "TELMISARTAN AND HYDROCHLOROTHIAZIDE",
+      "ampicillin sodium and sulbactam sodium",
+      "Octinoxate, Octocrylene",
+      "Guinea Pig Epithelium",
+      "Acetaminophen and Diphenhydramine HCI",
+      "Dorzolamide Hydrochloride and Timolol Maleate"
+    ]
+  },
+  {
+    "album": "CLE DE PEAU BEAUTE REFINING FLUID FOUNDATION",
+    "artist": "Ibbie",
+    "cover_photo": "http://dummyimage.com/104x100.png/dddddd/000000",
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAGrSURBVDjLpZM9a1RhEIWfu3eNYVcLiYqrmA8QjPgrBFGws4uCrYKdVgFBAorYWFtYBe0FiQqbRlBbERGDhUEwxkRBiCEbZd85x2LvfrFbBDLVFHMezplhMtvspkrsssrt5sHCj44V2RiIAAyWkCHU6kNw5/J41gcAOHpgBGMsMGAZGdwDkWB5vTHoIGzsQiCwjV24KUCSkUw0h0SIaFnERiqE7V79kGZoEOBQa9AgCYtCoI6wDUxpCCAJFEbFUGu43avrxKDkQYCSCLmT0z2ZXURqO0nDAClBhDr5+yFQW3rMwY/zlH4uc6J6mPrLtdlz9XS/C4ggolxsvRC6dcra0hNObbxg+spV9k6dZvtDnU+vF+8unt2zVeo6MBFGCSLcukqIFGbfu0ecPHOR0S+vyOYvUVl+yuTEWO7MN3ocuNhB/8ZtU9lYYfTIFFy42c0+VyNXNtmzA/H5W6OTWRIOI2C6cojG++dUn13n3/YaDWDzT07krGY7+cY3M8fmRvZXbx0fS+VyaYXNX4mv63k0//p2ttN3fjszPrv1e/VaHtlE5P5ueHi+nu79Bx7reDBYdnW7AAAAAElFTkSuQmCC",
+    "genre": "Comedy",
+    "year of release": 2011,
+    "songs": [
+      "GLYCERIN",
+      "Methyl Salicylate, Menthol and Capsaicin",
+      "Fentanyl Citrate",
+      "Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone",
+      "Didanosine"
+    ]
+  },
+  {
+    "album": "S Balloon Slim Body Line",
+    "artist": "Ajay",
+    "cover_photo": "http://dummyimage.com/230x100.png/dddddd/000000",
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHTSURBVDjLY/j//z8DJRhMxE8+VwjEE4D4DBD/j5989l/8pLP/4yec+Z8IpJMnn/2fOPH0//i+0+9TJp063b3uxv/uNdf/Ixsw+z+JoHPVNRQDboB4c468hePZeDAIJPYc+4EwYOLZDzADDt76AsaHbmPHMAMiWg7+gxsQN+HML5DgbAI2I7sgvHEfwguxfaf/kRoGoXV7EAbE9JwCC4bU7/nvU7vrv1fNLjD/3tMPWDFYbc1OhAHRXSfAgg5l2/83L7v436J4G9yA1++/oWCYAcEV2xAGRHUcBwsa5235X7f0wn+9nE0oBjx78/X/moMr/5fMTPif1uf/P7HL679veRGSC9qOgjXopK//X7rg7H/tlLUoBizfu/h/4+rE/1uuTP1/4dmu//27s/6H9+v+N8+W7IG4oO0I3ICS+ZgGgGzceHnC/43XJoHFe/ak/u/fkw4y4DvYgIimQ/9gBoA0IxsAwj7Vhv+3XZmDEgubLk0FGQDJEKENB+7hizL7QqX/3buS/rfvSgDz23cmoLogtHZff0jN3q3B1XveBVfu+h9Yvu1/YNmW/wElG//7F63975wX/z+4R+N/764UsM0gGsSHhwExGKi4A4g/gZwNpTtA4gDRWxxGCQ/RXQAAAABJRU5ErkJggg==",
+    "genre": "Animation|Children|Musical",
+    "year of release": 1996,
+    "songs": ["linaclotide", "BENZALKONIUM CHLORIDE", "TRICLOSAN"]
+  },
+  {
+    "album": "Digoxin",
+    "artist": "Elli",
+    "cover_photo": "http://dummyimage.com/158x100.png/ff4444/ffffff",
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAIsSURBVDjLpVNNaBNREP42Wck2MVUilJr+YJC2KG0kViGWHsTSS0HBg+DVq+hJkIJXD714E8FePHnKpdSDf4EebEJOBq1NSbUNiCYNRmPSmHSz+/Y587YpCB4KGfiYx5uZb76Z3adJKdGNedCldU2gp1KL/53BcWyChJTsBaEN2xYQwqaoRWcblmVB5+RweOKgkHcipbMPl4DPTNLxjsMxgY2NpEvAZpq7qsANuglukdgv6sBVZBhBUtByCVxmB37/cQwNnUezWUW5nMfw8EW6t7C2tozx8avwenVsbq6gWv2q7m3bhMe2rQNmLi4UMhTYo+IL2N5OodGoIBK5pJLz+SQ1CYFrhLBIARHwUnhOvmCr10vY2kqh1apibOwKAoEQSqUcgsE+jI7OoFb7rnK5KTfSHaelNusSQQWFEMjlXqmkWOwGBgaieJq4jy+/dlBv1rFn/sHZ/lPwCxM6y2D5QrTVUiYnbypp7XaD5J5QseX0c5S1Ci5PxzEYGsHK+hIyn97B+OlA59lcBW1ks4l/Nt3B6/dvcX1uDsIjcO7kLJK5BOITU0gsvYDHNE21UZ8voGAYAfWJGD09vaSiF5X6DxzRjuLambtqT/dmFnG6LwpBM5OCFs37Um2W/y4pTfJS/XncndX9JoL1YhofiquYn32GhTe3YHh98GoatMO8xvid8MPByLEHU9FpjPTH8Hkni/THVXwr1B5ph33ORLJA7jYhSNglPMk8Ls7/Be/8gsufCT5oAAAAAElFTkSuQmCC",
+    "genre": "Sci-Fi",
+    "year of release": 1994,
+    "songs": [
+      "acetylcysteine",
+      "ACONITUM NAPELLUS ROOT, CALCIUM PHOSPHATE, CHAMOMILE, ARTEMISIA CINA PRE-FLOWERING TOP, LYCOPODIUM CLAVATUM SPORE, SODIUM CHLORIDE, PULSATILLA VULGARIS, and SULFUR",
+      "Avobenzone, Octisalate, Octocrylene"
+    ]
+  },
+  {
+    "album": "Diltiazem Hydrochloride",
+    "artist": "Rainer",
+    "cover_photo": "http://dummyimage.com/188x100.png/cc0000/ffffff",
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHoSURBVDjLpVM9awJBEB2DKIoocoI2goXVgVhoYam9bep0XqX+DU1pZ6EhpZ2FYGsnot2BqJUgaiGCd/j9tZlZvc2ZjyZZGPZmb+bNe49dC2MM/rOsXw9Go1EcQdMYSYwIDbheryruLdwb0Wi0Z663mBlgs4J5TpIk2el0gt1u5+f7/R7W6zXMZrM+gpRisVhZNBEAxXA4VAaDgYbFjBbtuq4zTdPYbrfjZ5vNhnU6Ha3dbitGH2dwp/0eCoVkmrparQSweYjP54PtdgvdbpeYvKRSqd4TFWCSJtpGc6FQgEqlKpqLxVeoVt8AGQFJCwaDMrJJCxPJMPpBWhEMboPZ/ZvxbwMMG8Hr9VJtks4MBhGafjgcHigbAIRhnBGAy+WC8/kcEQBmrdR0+3402VxzPB7hdDqBmYFK5thstjsAExI+81szSV0ulwSgCoDL5dIigxwOBy+SJN+DBHLfYEE10+mUJLSEiai9MR6Pn1Gb7Pf7QVEy4p7QBcpkbrnb7Yb5fA6qqvYxbQgGiUSih66W8JLoRM/j8YDVauWm0k5BzXgTodls6uhBCUF7365yvV5XUFsuHA7LgUCAA6E8WCwWMJlM+GTMS/l8vvzjW6BVq9XiSDuNQPwxoVZuMkYLmTSy2ezvj+kv6wM24KX3CYk6PAAAAABJRU5ErkJggg==",
+    "genre": "Documentary",
+    "year of release": 2000,
+    "songs": [
+      "Cetirizine HCl",
+      "Loblolly Pine",
+      "OXYGEN",
+      "ENALAPRIL MALEATE",
+      "TOPIRAMATE",
+      "sodium chloride, sodium lactate, calcium chloride, magnesium chloride and dextrose",
+      "Amiloride Hydrochloride",
+      "BACITRACIN ZINC,NEOMYCIN SULFATE,POLYMYXIN B SULFATE, ISOPROPYL ALCOHOL, ALCOHOL"
+    ]
+  },
+  {
+    "album": "LAMICTAL",
+    "artist": "Billi",
+    "cover_photo": "http://dummyimage.com/122x100.png/ff4444/ffffff",
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAKdSURBVDjLbZNNTFxVFMd/781jICiCCFoSC5YgGGAQG/E7EhckJFqMe5suNI27Ji7r3qXbLk2rSRuFhU1asESgxvoRm5qQoIAikECMdcIMAzO8++6957h4MyjKSW5OcnPv7/z/554bqCoTFz4eUNXPFQooLymKKqBKmvRwibdYs7t++8oH3QAR6YHzCk/l+juD+3/tolq7BClMUIHibpkDo4hGp6hGCoBXc/0ng9eGTtLZkUNTAqKSVpW0entLI40NES+/+R5HAKg+nBvoYvrubxQKFVQEAKmpUEVFKZYqxCbh31G1QBBlI54c7KLnsVa8B1VBRPFe8SI4UQ5iy2eTC8cBFO+FzfslsmEdcRxjTYKTdN+RIarL0vZAPaJ6DAAQLzhvMcbw1nM9qfxUHarK5flfeOJgkovPrjJZKfxfgfWCtw7nQz5d+BljHc4r3gmOgCE3zzODJZr73+fEIx9x78Pe8dMXV2cOAc4JibUkAhrWE9TVQahIIPTG84z1rNLcN0Z5c5rWR/vIdJqp6Qvd79aaiHUeFzuM9TgvWC/VrHSGv9KSex1fWaKh7XFiv0XH6HCjKxcu/aPAC9ZYjPWpHa8kVcifrhVb2CDM5AnCMtmH8hBX2P/DZI5YsEkKcKIkTmhz64w/+CVNTYq4bUIpQtiE2oTlayvx0krpfFQbmMR5nHEYK1gR+twPjETf8PQrY2hyi8DvsXjzgKRQJBDL1kbp7bNX16cOe+C94hOfWhDhheafGB49Q5K/RBQ1sziXMLv3Bl9vRuTX7mzdu/3t1JFnJAwZeX4IDQK8V7JkCTLbZOrbWby1z1flCXbaX8Ss3aVYcXP/nYPZmRvfv5P+vOr8n7CY/B1KO4ZPlvtZtQHKd6Bc//3HL87VAH8DX5rXmGdCnY8AAAAASUVORK5CYII=",
+    "genre": "Action|Crime|Mystery|Thriller",
+    "year of release": 2010,
+    "songs": [
+      "valacyclovir hydrochloride",
+      "GUAIFENESIN and Phenylephrine Hydrochloride",
+      "apium graveolens, nux vomica",
+      "Tacrolimus",
+      "Benzocaine",
+      "levothyroxine sodium",
+      "Loratadine",
+      "Potassium Chloride and Dextrose Monohydrate",
+      "HOMOSALATE, OXYBENZONE, OCTISALATE, AVOBENZONE, OCTOCRYLENE",
+      "Avobenzone, Homosalate, Octisalate, Octocrylene, Oxybenzone"
+    ]
+  },
+  {
+    "album": "Cold and Sinus Maximum Strength",
+    "artist": "Berny",
+    "cover_photo": "http://dummyimage.com/248x100.png/5fa2dd/ffffff",
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJmSURBVDjLfZPLb8xRFMc/9/ebqVHvEkaiqTJCEIkNmy4shKY2FhIkliwk4ploV00jQhNLQSz9BSxY6CBNtBWbBgsh3lrVd3U6j/v73cexmGk7Kpzkm3Nucs/nfM9NrhIRANzZM8L2ndhsFrEWcQ5vDL6Sk83NyJNuljx9rKiKxGxR3SRVjd7a8tlaJDYsjHmAsYi1+CjCW1sGWTtXJ/4BCOYAsUGiCBoacFGEjyJcFOG0RmUy+GIJieP/OIjNFfKv25OHfpI8Og41Ed4LrhjgJ77huyfLd/4FSJx7MSg6yLPp/FJqtyIEBL6EMtP43Dvi1M28P6QHFwKUiGD7NuxFeEDmVlrC5Xg7CXYGcQXEaVAKnCHf3zbsYg6nT8jLP95AnGmj/nJaEisR+wtcCXG6ogI+GkV8gdSW02mTo+2vFbyNm8IluxCbQ7yuKKpII76IN1MEtWsxBZr+BnhXFwQJxJfARxXpeTnNaO97RvseUvyRWPMxm/gO3D7QZTvLAOdBLPh43vrsdKcZ7ftA8bNh97FLLGrcQelNV/3b59mr2f3JQlBewU2KmUbELLBe1sCzfjL7jpD61I26d5zaz/fZ2LA6FCUXyg6M7nETLw8HK7Yh1fZdOduJIql0I7RcnN+9Yz2hVxsDAKfpzPdfH/Z6AsIUIhZxFSd4wlWLKb56BB3riVoVU62K3MgYLpQhNfsbf95Vp5zhyrI9J9PJus2gBLEFXDzNwKNeCp9mqF/tSASDzIxZvo6EzmhpnwMAfLmh9sbTtFlNk7PUmQh0kUldoKcmXDdUmhpvCZ1qcKH8ELhzsMte+w2tS8iXJ5jooAAAAABJRU5ErkJggg==",
+    "genre": "Action|Comedy|Drama",
+    "year of release": 2012,
+    "songs": ["Amitriptyline Hydrochloride", "Rabbitbush"]
+  },
+  {
+    "album": "CLADOSPORIUM CLADOSPORIOIDES",
+    "artist": "Harp",
+    "cover_photo": "http://dummyimage.com/188x100.png/ff4444/ffffff",
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAI1SURBVDjLhZNNSFVREMd/53qfPo3nwq8W1SJaVBKtVAxs56KVIdKiaBct24dBtIkg2tcuLCFavCCiNm2ChAwJQlvlR+LC/OhDffrevfecmWnxUlGe9YfhDDPwmzln5jgzY79G36/dNuO6mB5VVcppIPVCEP1rggRDVCdiakjNbgz1FNr4j+48nzlbEyCqbQAv50YIGthISpR9BS+BoIEggZvn7uK9NBwAqF7rSue1A6tvJQEfhNoAUQCeja0cCBjoaiELQvz1dffnfHNnp3PRTjLIvR3/cl8HxfFlhnoP7wH82EiqHTiLTh3re5xzzoEBGP7NEmpGXAfFDyvgoDi+TBw5MCMXw+kjTWReiAmWoFlDuvQQyeogakakHwPiOsdgT3vNDmYWNwhBifEuMs2QrB5TQysLHEpmKU284MzUKNMTcBaY/rRv1ANvMZQYZ3kNFba+r5Auz6JZmQu5eVq7H9DSdRXJMrwo2/sW5VtZHTkPQGPsNMZHxI0dtPcOAwpmTH5bZvHLO7xPEVXSLEMkxdSTa73ICWD4yRRrpeRVjDczSdDyJCbrmJQ42TgPecU0Aa1guonJJiZlGo9fYvYjFG/1OYCYFDMNqF/FwnoVoilYAEsxLWOyhYYSJiVwbs9bxGRmDsHCLyysVU3Wd2GhhMkGJluYJmi6AJDsACzT36H8s8lv1hfQQmSWAy2AtWGSAhkWVU8XCZIkZpmmu4AkvT/3aLAHox9H4Z/fzwA3lqH2dDv0B6mSc8HU1qcrAAAAAElFTkSuQmCC",
+    "genre": "Drama|War",
+    "year of release": 2002,
+    "songs": [
+      "Agnus castus, Arnica montana, Baryta carbonica, Caladium seguinum, Kali bromatum, Lycopodium clavatum, nuphar luteum, Nux vomica, Onosmodium virginianum, Phosphoricum acidum, Picnicum acidum, Selenium metallicum",
+      "temazepam",
+      "AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE",
+      "Cladosporium cladosporioides",
+      "Lovastatin",
+      "Titanium Dioxide",
+      "Cefuroxime Axetil",
+      "Ensulizole, Octinoxate, Octocrylene, and Oxybenzone"
+    ]
+  },
+  {
+    "album": "Lanoderm",
+    "artist": "Wernher",
+    "cover_photo": "http://dummyimage.com/215x100.png/5fa2dd/ffffff",
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAGASURBVDjLxVO7agJRED3XN4gPkEWwET/AysoqoE3+wcIPCEvEVsgnhJXgF4j+QraJLFjkAyxEsFCwsBYU32bPyF7WkEDAIsMOcxnmzJx5rLpcLrhHArhTQt5jMpl8nE6niqs4Ho84HA5a9/u91t1uRzuo1+tV4hRbcMEPkUjEMQxDgr6Lv81wOAzHcTCfz6umaQ6EgVvxJZ1OY7lcIhqNapAfyPdisUAymUShUGDRluseqNFoJNUzmQxWq9UNXbZCoFIKwWBQqicSCcTjcdi2jel0Wg2weiqVkl4ZFIvFpAoTZrNZ0W63i+FwiF6vh/P5jO12i2KxyHm0Qqy0Xq+Rz+d/nXS73Uaj0YBlWdo3m82EJRNUPOfz26fQhdDmiOXD61MZm83mJilZExviWtgrrvEu8ArWFj8fmrdiScDdUyyz/OcD4ix0Ag5sPB7r1VEZ4K2x0+mgVCqh2WyiVquJP5fLCXPV7/ff3V4efVemraf+qySIjKluIlv9+890d4IvgMkS1vrQFCsAAAAASUVORK5CYII=",
+    "genre": "Comedy|Romance",
+    "year of release": 2006,
+    "songs": [
+      "Coastal Sage",
+      "Sertraline Hydrochloride",
+      "Sildenafil",
+      "Benzalkonium Chloride, Benzocaine",
+      "Acetaminophen, Dextromethorphan HBr, Guaifenesin, Phenylephrine HCl"
+    ]
+  },
+  {
+    "album": "Methocarbamol",
+    "artist": "Norby",
+    "cover_photo": "http://dummyimage.com/146x100.png/dddddd/000000",
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAGfSURBVDjLpVOxSgNBEJ297B2iiUmToKABCxEVKyGVoJ+QLp1RxE4sRAQL26RVsLHRQouAkMoq/yD5Ads0ErDIQe5udu+c2eTCGU4MuPCYmbvZN292d0QURfCfJZ9eXh9WV5aPpW3bUQigQg0YKFBKQcAgP0AE38eRDcgShp6HX/3PS0mbT5dumyJ/+A5HmQ24337+s6oQAIXFrN28e1yXUjqifHYO9uYHXIgyFGR2JukL83OACoVEreDg6ppYRSosyzKYjhlrO3sgozCETCYD/X7/R1LahmRcLBYhny+ApVQ4kdVut6HRaMx8A0iHbGmtgS7AoFarQaVSgWq1amLHcSb/kqCDMzbAAGSAynxgtFot6Ha70Ol0TMK07GRb3Db6PkiWEVer1+smgeM4kdf0GZgHRAWVGiuIZSUPMFkxLWYFih6WxHELcdVpklgBx0mfLTIBP09mY4LRK0uvGCMm4T2+IgLXdQekIFcqlVKTfyNh6/ueJ3u93s3W7v4J8eYCzUNEw4SjYeIelUbja/KRrlxT1VBzDg68ofsm/jvO35HitdVS/1ysAAAAAElFTkSuQmCC",
+    "genre": "Drama",
+    "year of release": 1998,
+    "songs": [
+      "Alcohol",
+      "Camphor, Menthol, Methyl Salicylate",
+      "Mucor plumbeus",
+      "potassium nitrate and sodium fluoride",
+      "Benazepril Hydrochloride",
+      "ALUMINUM ZIRCONIUM TETRACHLORHYDREX GLY",
+      "Lisinopril and Hydrochlorthiazide",
+      "Octinoxate and Titanium dioxide",
+      "POTASSIUM BICARBONATE",
+      "Carvedilol"
+    ]
+  },
+  {
+    "album": "Amoxicillin",
+    "artist": "Lisha",
+    "cover_photo": "http://dummyimage.com/219x100.png/ff4444/ffffff",
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJkSURBVDjLpZNbSJNhHIeli4jAKOhun9KNbUpaURFRREkFVjpNRcssXOKYZ9J0ihnN05zSUpflzMOnW5tuammajUkWpCbbrOxwEzZJw7Rt2pxJh/16/YSBILPo4uE98P8974nXA4DH/7Dq5GQn+5NdxcK8lsK8msIczcKYlv35rwST3ZwxRw8Ljh5qmU4i0VCYbfWC+T5nfE2BQ+fFBOdbqeUdEOyEWZrCRBWFNQX2ehZMGh4mHkkwM3AYlgYKVoUXZpTe+CKnoJcd2uJW0Jbi/c32vg+WF82Yel4Hm+kYbMYYzH1Qoy9v28LrxsT1bgU34nYMWYfvYdqgwcJLFUHN9K1GFWp4/ga3R0hX0huDLp8ercnci0XDXXx/08GwMKIEnbsPJxJPjsbfrt28qiBNSW+KrcpRhhSxMeTogrQ0CI3XTjEs9XVTLQgu3I6z5RntqbR86wpBqkKxTmvukMTK9mPgdwN6bRVoeCdEtTEN0gEBxE94uDOSgcezMoSJdyGiRNic3Fi7wSVIrissTmo6jhaziGEpeHNQgLJn8SjSX0B+dxSy20NRMZQEST8fCXIu4iuzql0CUx7n13SXENd7z6G0n8dQ3HeRGed1RSKrjYt0VRD49UeRqQmGpTcfg5m+P1yCV1d9nVadiBQcwS1DKgnGkFWjkfsgHFe0XNJGEEkYJE/5OF95EDZ9AYaz/ZwuwWhTSo4xx+cnvy4Q0dLdpPDSqoRL/BEu3glTfsAiyRSseIWPaoEnrZf6RJUnvI0sC3SeKd1DLiwAoSX+CCkKIBxwhoi4X2selvuNtwg83f7Gf+EP0qq8jpoy//YAAAAASUVORK5CYII=",
+    "genre": "Comedy|Romance",
+    "year of release": 1992,
+    "songs": ["Lamotrigine", "Oxygen", "Triclosan", "Triclosan"]
+  },
+  {
+    "album": "COZAAR",
+    "artist": "Aileen",
+    "cover_photo": "http://dummyimage.com/164x100.png/dddddd/000000",
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAGOSURBVDjLlZPNapNBFIafSdOvtbFgSi1dREEtguDSnTfStbgW9A6y9BICinfkRosRFw1mE5BoS4rNzPlzEfOrYjJwOGfzPvO+h5kUEWx6zt6+eO1ur8x0VN9E+Ondyy/udlLdPua8d8ZBrdIZoN1uh7szLTOb9WePgxpOdXjMzXsnuDlx/gGRzAxgZrRaLQBSSks94iPNJ0+BRL4aYpKJcER0GbAqns5mhptRRgNMC1Aj3P50sChanFULboJpwbUAiXCnlPEcoKr/BJgWQhWXMnEQE4DKmNrfHKyW/L7ZJBNyzVGzR4RSSp4DFh2sOhEpmCpWMo0bPzi4NWR76xqR/0SYA8a4ZkwyF9+3cD0kl8HyEqeA1fwpJUrJuAouGRNhmOvgjkhZD6AynuxABdNMSnXcHdU1AUXyRCwZl0JKTsQGAJFJhL3mHVwFzT8hBpgpqdPpRLfbpd/vL73/xX56v0djf5+d3QbV7h7b1Q6jqwu+fn7/La3znd88v3tkpg/M5JGZPnS3Vq1enZrky19GcE/tIr8QhwAAAABJRU5ErkJggg==",
+    "genre": "Action|Comedy|Crime",
+    "year of release": 1993,
+    "songs": [
+      "venlafaxine hydrochloride",
+      "Fucus Vesiculosus, Spongia Tosta, Iodium, Liothronine Sodium, Pulsatilla, Glandula Suprarenalis Suis, Pituitary (suis), Thryodinum (suis)",
+      "adenosine",
+      "Balsalazide Disodium",
+      "Aluminum Zirconium Tetrachlorohydrex Gly"
+    ]
+  },
+  {
+    "album": "Halaven",
+    "artist": "Candie",
+    "cover_photo": "http://dummyimage.com/212x100.png/5fa2dd/ffffff",
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJSSURBVDjLnZPPaxNBFMe/s0mTVJuWtI21JFhB60UUKmJB8aJo8WBBRREEb179Azx7EepBvVjBmygeKpaCYIV6EhHxJBTspRRj1Cpq22R/zMzO+J1JA8VLpcMub3ZmPu9935u3wlqLrYyxhycuKq0ng/85fHXmUvXy1LljG+Bxwk8qA4MlsZkCwnulVPullM+k0mNKqQLh5zvLOzJLtdrapgoIlwhPVcuVgPAs4emhStXD3D4kbsw+8hKMNTCpQWr40qpUQ8kUiVIIdQ22cwE9xSIaYYjP9WUEyVFo1YlsbuU0Roc7N8S00MbSSctqWqUtFlff4fXSBKwROLPrLnJiAA/mviPbxlZDzehYhwykB42HJa3VBzDSfcuv//hdQm+XQdTQLQeGhTx1sIjp938wfrgH+Y7ACeFjMV+L8ebTGs4f6cfTt8CF0T5MzHxBoUPARIqpaO0j5bOC+RoP33+1DCGA2zNfUe3rwL7BPCq9OWzPBdhdzqMZp4h41jSpoJloxM4BPV453odsIODW3PU2khSsKWvU5QQhJtQgHPriBrDNFEEjskgk8+F758U3n28YGw+4SCkdfVwKsVAPCaVwbRPRQawsTCIRrEQSMWG30YoMRtbr306Bxb2Xdfxc015B97YMJq8NQ3FuEwtx8ua8PTtSQu1XAsnFhAoS1aq8m0t/E63bUL4/Wtc71J/H3ONFZFfp2UkqFjKQrENBCag8D2laHUAZ6yHXXPTjG82pa/8BYs/1DzaOKNnnxE3p5k5eyj6mJei/qcBX9J8htvo7t8dfFzerp+lA/ogAAAAASUVORK5CYII=",
+    "genre": "Documentary",
+    "year of release": 1991,
+    "songs": [
+      "West Cottonwood",
+      "Treatment Set TS345049",
+      "Hydroxyzine Pamoate",
+      "betaxolol hydrochloride"
+    ]
+  },
+  {
+    "album": "Warm Tan Foundation SPF 15",
+    "artist": "Cori",
+    "cover_photo": "http://dummyimage.com/137x100.png/ff4444/ffffff",
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHYSURBVDjLjZPLSxtRFMa1f0UXCl0VN66igg80kQZtsLiUWhe14MKFIFHbIEF8BNFFKYVkkT9GKFJooXTToq2gLkQT82oyjzuvO8nXe65mmIkRHfg2c+/3O+d8l9MBoIMkvi6hkNDAA3om9MTz+QAhy7JqnPO667poJ3GOdDr92Q/xAwbIrOs6GGOeFEVBtVpFoVCQkHw+j0wm40Ga5k4C0AXTNGHbNsxv32Hu7YNtp1Cr1VAsFiXAMAxQkWw2ewNpBZDZPjiA+XYebioJ9nIKqqqiVCrdGUlm0gpwzs5hzrwGX1uGMTMLtvrBG6VcLstOcrncPQDOYW3tgCffw0isg4uqnP6J8AhCnVAelUqlPYD/PYE59wZ67BXsL4fg/6ryYhNC82uaJkFtAdbHT+CJFbgbCagjYbDNlDev4zgyH4KQ7gA2n/fMUWWeiAtzBMrgWABAXciAhaibAKAYnXyaGx3/5cSXoIajsH/8hHP8B87llTSSqAMSmQMAfSL2VYtET5WRCLcW3oHt7Aaq+s1+eQAt/EJXh8MNe2kRSmwa/LoQeOsmpFUeQB0ag9I/jIve0G/n6Lhx3x60Ud3L4DbIPhEQo4PHmMVdTW6vD9BNkEesc1O0+t3/AXamvvzW7S+UAAAAAElFTkSuQmCC",
+    "genre": "Comedy|Drama|Romance",
+    "year of release": 2006,
+    "songs": [
+      "Terbinafine Hydrochloride",
+      "Trichophyton mentagrophytes",
+      "hydrocodone bitartrate and acetaminophen",
+      "Russian Thistle",
+      "Losartan Potassium",
+      "Acetaminophen",
+      "Minocycline hydrochloride",
+      "Sphacelotheca cruenta",
+      "Promethazine Hydrochloride and Dextromethorphan Hydrobromide"
+    ]
+  },
+  {
+    "album": "Gas Relief",
+    "artist": "Vonnie",
+    "cover_photo": "http://dummyimage.com/103x100.png/cc0000/ffffff",
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAIdSURBVDjLpZNPSFRxEMc/b9/P9b9uu5qWVG6soERCIringi6J5wKhTl2CvFQnQQi9dO3QoUudOkSHLkUQniL/ENWyrSRbUqC9dc1dXUXxubvvzft1sF1d6iA4MMwMzHznO8OMobXmKOLjiHJkALWysjIKXAXwPA+tNZ7nVaiI/GP/6jMjnU67LS0tJsDBfZT8/9mSn0gkRGmtzaqqKh7GhKK9zcb392hnB19rD8fD5xlq+EEkEmF0chM7X8TeLWLnHV7cjCAipjrYte/bI9z0J5Ysi8WsjR6bA8BxHCYu1eJ51eWxAEQEVQoAnLYLXOzt4LJfMfP5KwnTLCdOTU1VLG9wcHAPQET2il2Pj5mTKLVBQ1MTseIAuVweGvYAotFouXuJdQWDTWuB1vBZXqo+cr+K1AT9tO8slxPjTybwxV8jqxYSCNJ17S7S3LvPoKN+i/n1AF4wwLE2P/mtPI1eFqgl+/YprWsxum6MUB0+x+7cJMmZ5xhtSxjJZFJ3d3dXzGfbNoVCoUx5/k6Ugesj1P58B8vT0BxgTZ0h9mFhn4FlWWQyGUKhEJ2dndTV1ZUBZdWipj0MQ/f2L3D8BGpzHSUiyXg83iMi9Pf3G7OzszqVSlVeX3MQ+8sb6l/dprD7GxvY3jJxGwOucZhvnB7uGPc31o+dCrlK+VJsZ10WV01x8vq+cdh3nhk+PbqTS98yxTgjpl7W8PjKpPvgD7bjUD5Jjh8/AAAAAElFTkSuQmCC",
+    "genre": "Documentary",
+    "year of release": 2007,
+    "songs": [
+      "Norethindrone Acetate/Ethinyl Estradiol and Ferrous Fumarate",
+      "Buprenorphine Hydrochloride",
+      "Cefprozil",
+      "Levetiracetam",
+      "mycophenilic acid"
+    ]
+  },
+  {
+    "album": "Omeprazole",
+    "artist": "Marna",
+    "cover_photo": "http://dummyimage.com/178x100.png/5fa2dd/ffffff",
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAJRSURBVBgZBcExiJZlHADw3/O+732enKYdQVeklWBeoSBFtmgNNrRcQ9DSFBQZDU4OEYSNbQUtCg5FEAUpDdXSUliBQRBEBBXeVuFZnvKd1/e9z/P/9/uVzATnX37wEfwCAICbpy6s7wUAACjnXnrgUbyFtV3Ld3vhjbO2rv8Alu465sOzr9veugUf4dKpC+sXAWDApWdeObNv+Z57/fPV+zJTm22BzHTiyD5LR0/KzLXPzr/3LC4CwID7l1fus/n7FTHetv7JO2QiXc8fpbTx83eWV4/tBgCAAbLORR11+w+LVmWmj9tpLUMEcPO3LeX401599/O8MVv59c/1vx67fG5te4Boo6ijGGfa7D+kNoQ3n1u1MQ0FkWlsYeiP+ODK5sN96a8++doXBweIOhOtkqEUMum7zo3b6Y+N1HVprOHWdvXUQzsdP7TX0qRb+TbbTx1EnYs618a5qE3UBvrC4sCkLyZ9sTjpXNvcduhOXnxijzrmgQFinMlxLmuIsZGpLaZSWOjJJPticehc/TdN/555fP8OC0NngKhzUZsYm6hBpMhUFH3XASVFJDt6pSv6vpcYIMcm503UJmojgABFEfrCZOiUTBFFKUUmA9SxamMTrYmxkURLBUNHVzqR9IUuMGHnQGYaIOdVjE22JmvISNCiYgAAAJGVKAZc3p5OT+zatyprE7WRicGsTrEXAADM6lSJrgx4++svP92NowBw7fDzFroD9iyOMulKUQpQ0Hd3iKzzkpkAAODkme+/6btykG6F3KIgQVFKZJvuWVrY+T+vNUkTODP9hQAAAABJRU5ErkJggg==",
+    "genre": "Animation|Comedy|Fantasy|Sci-Fi",
+    "year of release": 2001,
+    "songs": [
+      "Fucus vesiculosus, Capsicum annuum, Nicotinamidum, Spongia Tosta, Arginine, Croton oil, Ornithine Pituitary, Thyroidinum, Tyrosine, Calcarea carbonica, Graphites, Kali carbonicum",
+      "Brompheniramine maleate, Dextromethorphan HBr, Phenylephrine HCl",
+      "Octinoxate and Oxybenzone",
+      "Metaxalone",
+      "Sodium Fluoride and Potassium Nitrate",
+      "OCTINOXATE"
+    ]
+  }
+]}
