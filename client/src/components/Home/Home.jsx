@@ -30,7 +30,7 @@ function Home() {
     console.log(page);
     return (
       <div>
-        <Link to="" >
+        <Link to="/login" >
           <button className={style.loginbtn}>Login</button>
         </Link>
         <Search setSearch={setSearch} />

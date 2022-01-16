@@ -1,5 +1,6 @@
 import axios from 'axios'
 import React, { useState } from 'react'
+import { useHistory } from 'react-router-dom'
 import style from "./login.module.css"
 
 function Login() {
@@ -7,7 +8,7 @@ function Login() {
         name: "",
         password:""
 })
-
+const history=useHistory()
     const [user,setUser]=useState("")
     
     const handleChange = (e) => {
@@ -22,14 +23,16 @@ function Login() {
         e.preventDefault();
         let { data } = await axios.post("http://localhost:4040/user/single", formData);
         setUser(data)
-
-        if (data == null) {
+// console.log(data._id);
+        if (!data) {
             alert("wrong Username")
         }
        else if (data.password !== formData.password) {
             alert("Wrong Password")
         } else {
-            localStorage.setItem("albumname",formData.name)
+            localStorage.setItem("albumname",data._id)
+            alert("Login Successfull")
+            history.push("/edit")
         }
 
     }
@@ -43,9 +46,9 @@ function Login() {
             name="name"
             placeholder="Enter Name"
           />
-          <inpu
+          <input
             onChange={handleChange}
-            t
+            
             type="text"
             name="password"
             placeholder="Enter Password"
