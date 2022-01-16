@@ -15,7 +15,7 @@ console.log(user?.author?.name);
       <div>
         {
           <div key={user._id}>
-            <h1>Name: {user?.author?.name}</h1>
+            <h1>Artist Name: {user?.author?.name}</h1>
             <img style={{ height: "300px" }} src={user?.logo} />
             <h2>Album Name: {user?.name}</h2>
                     <img style={{ height: "300px" }} src={user?.cover_photo} />
