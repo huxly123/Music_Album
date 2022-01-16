@@ -28,7 +28,7 @@ router.post("", async (req, res) => {
 
 router.get("/:id", async (req, res) => {
   try {
-    const data = await Album.findById(req.params.id).lean().exec();
+    const data = await Album.findById(req.params.id).populate("author").lean().exec();
     return res.status(200).send(data)
   } catch (err) {
     return res.status(400).send(err.message)

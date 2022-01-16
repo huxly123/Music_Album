@@ -8,10 +8,10 @@ function Routes() {
     return (
         <div>
             <Switch>
-                <Route path='/' >
+                <Route path='/' exact >
 <Home/>
                 </Route>
-                <Route path='/album/:id' >
+                <Route path='/album/:_id' exact >
 <Single/>
                 </Route>
             </Switch>

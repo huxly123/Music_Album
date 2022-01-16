@@ -31,7 +31,7 @@ function Home() {
       <div>
         <Search />
         {data.map((e) => (
-          <Link to={`/album/${e._id}`} >
+         
             <div className={style.carddiv} key={e["_id"]}>
               <div
                 style={{
@@ -46,7 +46,7 @@ function Home() {
 
                 <h2 className={style.author}>{e["author"]["name"]}</h2>
               </div>
-              <img className={style.cover_photo} src={e.cover_photo} />
+              <Link to={`/album/${e._id}`} > <img className={style.cover_photo} src={e.cover_photo} /></Link>
               <h3>{e.name}</h3>
               <p>
                 <span style={{ color: "brown" }}>No.of songs: </span>
@@ -61,7 +61,7 @@ function Home() {
                 {e.genre.join(" | ")}
               </p>
             </div>
-          </Link>
+         
         ))}
         <button
           className={style.butt}
