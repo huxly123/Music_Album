@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react'
 import style from "./home.module.css"
 import Search from './Search'
 import axios from "axios"
+import {Link} from "react-router-dom"
 
 function Home() {
 
@@ -30,29 +31,37 @@ function Home() {
       <div>
         <Search />
         {data.map((e) => (
-          <div className={style.carddiv} key={e["_id"]}>
-            <div style={{ display: "flex",marginLeft:"15px",marginTop:"20px" }}>
-              <div style={{ width: "50px" }}>
-                <img className={style.logoimg} src={e.logo} />
-              </div>
+          <Link to={`/album/${e._id}`} >
+            <div className={style.carddiv} key={e["_id"]}>
+              <div
+                style={{
+                  display: "flex",
+                  marginLeft: "15px",
+                  marginTop: "20px",
+                }}
+              >
+                <div style={{ width: "50px" }}>
+                  <img className={style.logoimg} src={e.logo} />
+                </div>
 
-              <h2 className={style.author}>{e["author"]["name"]}</h2>
+                <h2 className={style.author}>{e["author"]["name"]}</h2>
+              </div>
+              <img className={style.cover_photo} src={e.cover_photo} />
+              <h3>{e.name}</h3>
+              <p>
+                <span style={{ color: "brown" }}>No.of songs: </span>
+                {e.songs.length}
+              </p>
+              <p>
+                <span style={{ color: "brown" }}>Songs Published:</span>{" "}
+                {e.songs.join(" | ")}
+              </p>
+              <p>
+                <span style={{ color: "brown" }}>Genre: </span>
+                {e.genre.join(" | ")}
+              </p>
             </div>
-            <img className={style.cover_photo} src={e.cover_photo} />
-            <h3>{e.name}</h3>
-            <p>
-              <span style={{ color: "brown" }}>No.of songs: </span>
-              {e.songs.length}
-            </p>
-            <p>
-              <span style={{ color: "brown" }}>Songs Published:</span>{" "}
-              {e.songs.join(" | ")}
-            </p>
-            <p>
-              <span style={{ color: "brown" }}>Genre: </span>
-              {e.genre.join(" | ")}
-            </p>
-          </div>
+          </Link>
         ))}
         <button
           className={style.butt}
