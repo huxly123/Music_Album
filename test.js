@@ -148,3 +148,40 @@
 //      cur_arr.pop();
    
 //    }
+
+// console.log(Array.);
+
+// arr = [1, 2, 3]
+
+// Array.prototype.myfn = function () {
+//     return this[0]
+// }
+
+// console.log(arr.myfn());
+
+// let c = [3, 4, 5]
+// console.log(c.myfn());
+
+//call
+
+// let obj1 = {
+//     name:"gg"
+// }
+
+// let obj2 = {
+//     name:"fdds"
+// }
+
+// function pri(a,b) {
+//     console.log(`${this.name}is from ${a}and ${b}`);
+// }
+
+// pri.call(obj2,"ooty","kodai")
+// pri.apply(obj1, ["ooty", "kodai"]);
+// let aa = pri.bind(obj2, "ooty", "kodai");
+// aa()
+// let a = 1;
+// let b = 2
+// console.log(a + "and" + b);
+
+// console.log(`${a} and ${b}`);
