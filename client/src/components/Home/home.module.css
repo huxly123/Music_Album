@@ -40,3 +40,13 @@ Link{
     text-decoration: overline;
 
 }
+
+.loginbtn{
+    width: 150px;
+    height: 30px;
+    cursor: pointer;
+    border: none;
+    background-color: chocolate;
+    border-radius: 6px;
+    color: white;
+}

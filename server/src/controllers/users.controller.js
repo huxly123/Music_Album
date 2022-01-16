@@ -20,4 +20,13 @@ router.get("/", async (req, res) => {
     }
 })
 
+router.post("/single", async (req, res) => {
+    try {
+        const user = await User.findOne({ name: req.body.name });
+return res.status(200).send(user)
+    } catch (err) {
+        return res.status(400).send(err.message)
+    }
+})
+
 module.exports=router
