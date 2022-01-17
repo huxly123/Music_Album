@@ -35,4 +35,16 @@ router.get("/:id", async (req, res) => {
   }
 })
 
+router.patch("/:id", async (req, res) => {
+  try {
+    const data = await Album.findByIdAndUpdate(req.params.id,req.body,{new:true})
+      .populate("author")
+      .lean()
+      .exec();
+    return res.status(200).send(data);
+  } catch (err) {
+    return res.status(400).send(err.message);
+  }
+});
+
 module.exports = router;
