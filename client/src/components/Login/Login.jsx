@@ -23,14 +23,15 @@ const history=useHistory()
         e.preventDefault();
         let { data } = await axios.post("http://localhost:4040/user/single", formData);
         setUser(data)
-// console.log(data._id);
+// console.log(data.album);
         if (!data) {
             alert("wrong Username")
         }
        else if (data.password !== formData.password) {
             alert("Wrong Password")
         } else {
-            localStorage.setItem("albumname",data._id)
+          console.log(data.album);
+            localStorage.setItem("albumname", data.album);
             alert("Login Successfull")
             history.push("/edit")
         }

@@ -11,9 +11,18 @@ router.post("/", async (req, res) => {
     }
 })
 
+router.patch("/:id", async (req, res) => {
+  try {
+      const user = await User.findByIdAndUpdate(req.params.id, req.body, { new: true });
+    return res.status(200).send(user);
+  } catch (err) {
+    return res.status(400).send(err.message);
+  }
+});
+
 router.get("/", async (req, res) => {
     try {
-        const user = await User.find();
+        const user = await User.find().populate("album").lean().exec();
         return res.status(200).send(user)
     } catch (err) {
         return res.status(400).send(err.message)
@@ -26,6 +35,19 @@ router.post("/single", async (req, res) => {
 return res.status(200).send(user)
     } catch (err) {
         return res.status(400).send(err.message)
+    }
+})
+
+router.get("/search/:name", async (req, res) => {
+    var regex = new RegExp(req.params.name, "i");
+    // User.find({ name: regex }).then((result) => {
+    //     res.status(200).json(result)
+    // }).catch(err=>res.status(400).send(err.message))
+    try {
+        const data = await User.find({ name: regex }).populate("album").lean().exec()
+        return res.status(200).send(data)
+    } catch (err) {
+        
     }
 })
 
